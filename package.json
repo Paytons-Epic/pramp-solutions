@@ -1,0 +1,15 @@
+{
+  "name": "pramp-solutions",
+  "version": "1.0.0",
+  "description": "Examples Solutions to Pramp interview questions.",
+  "main": "",
+  "scripts": {
+    "test": "./node_modules/jasmine/bin/jasmine.js JASMINE_CONFIG_PATH=tests/JavaScript/config/jasmine.json"
+  },
+  "author": "Brandon O'Toole",
+  "license": "MIT",
+  "devDependencies": {
+    "jasmine": "^2.6.0",
+    "require": "^2.4.20"
+  }
+}
